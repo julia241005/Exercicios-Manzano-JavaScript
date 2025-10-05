@@ -10,4 +10,3 @@ Demonstração de saída através de console.log(), facilitando a validação do
 
 Organização em arquivos separados, para fácil localização e execução de cada exercício individualmente.
 
-O repositório serve como um portfólio prático, demonstrando evolução na lógica de programação e capacidade de aplicar conceitos teóricos em códigos funcionais. Além disso, é uma base sólida para quem deseja aprofundar-se em JavaScript, consolidar fundamentos de programação ou preparar-se para desafios de lógica em entrevistas e cursos de tecnologia.
